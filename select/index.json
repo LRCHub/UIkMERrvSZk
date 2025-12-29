@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Drum",
+  "base_artist": "Alan Walker",
+  "createdAt": "2025-12-29T08:15:13.339302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Drum",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/01_The_Drum_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Plush (produced by The-Drum)",
+      "artist": "Le1f",
+      "has_synced": false,
+      "path": "select/02_Plush_(produced_by_The-Drum)_Le1f.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Swerve (produced by The Drum)",
+      "artist": "Le1f",
+      "has_synced": false,
+      "path": "select/03_Swerve_(produced_by_The_Drum)_Le1f.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beat of the Drum",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/04_Beat_of_the_Drum_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bang The Drum All Day",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/05_Bang_The_Drum_All_Day_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bang the Drum All Day",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/06_Bang_the_Drum_All_Day_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hit the Drum",
+      "artist": "Scooter",
+      "has_synced": true,
+      "path": "select/07_Hit_the_Drum_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Play the Drum",
+      "artist": "Zeph & Azeem",
+      "has_synced": true,
+      "path": "select/08_Play_the_Drum_Zeph_&_Azeem.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mothers Talk - Beat Of The Drum Mix",
+      "artist": "Tears for Fears",
+      "has_synced": false,
+      "path": "select/09_Mothers_Talk_-_Beat_Of_The_Drum_Mix_Tears_for_Fears.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mothers Talk (12\" single Beat of the Drum mix)",
+      "artist": "Tears for Fears",
+      "has_synced": false,
+      "path": "select/10_Mothers_Talk_(12__single_Beat_of_the_Drum_mix)_Tears_for_Fears.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bang the Drum All Day",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/11_Bang_the_Drum_All_Day_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bang the Drum Slowly",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/12_Bang_the_Drum_Slowly_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Fiddle And The Drum",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/13_The_Fiddle_And_The_Drum_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Skin on the Drum",
+      "artist": "Michael Franti & Spearhead",
+      "has_synced": false,
+      "path": "select/14_Skin_on_the_Drum_Michael_Franti_&_Spearhead.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Revolutionary (Bang the Drum)",
+      "artist": "The Ghost Inside",
+      "has_synced": true,
+      "path": "select/15_Revolutionary_(Bang_the_Drum)_The_Ghost_Inside.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Drum",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/pl_01_The_Drum_Alan_Walker.txt"
+    }
+  ]
+}

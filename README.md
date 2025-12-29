@@ -1,0 +1,50 @@
+# Alan Walker – The Drum
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:08.92] Ooh, I can't pretend
+[00:11.32] Like you didn't bring my tempo up again
+[00:16.58] My head's in a spin
+[00:18.68] You send my body to a place it's never been
+[00:40.18] 
+[00:21.90] Baby, won't you let me
+[00:24.00] Keep you up all night? Let the morning come closer
+[00:27.66] You send me so high now, the ceiling can't hold us
+[00:31.43] Listen to my heart, let the rhythm control ya
+[00:35.16] I'll be there when you need my love
+[00:37.92] Just follow the beat of my drum (drum, drum, drum, drum, drum)
+[01:08.92] 
+[00:41.85] It goes...
+[00:46.85] 
+[00:56.55] Just follow the beat of my drum
+[01:12.05] 
+[00:59.68] Ooh, I can't pretend
+[01:01.97] Like I didn't let your love go to my head, ah-ah, mm-mm
+[01:06.97] Ooh, I'm in a spin
+[01:09.17] You send my body to a place it's never been, ah-ah
+[01:34.17] 
+[01:13.86] Whoa-oh, oh, no
+[01:16.32] Thinkin' about you, makin' my body behave so
+[01:20.21] Crazy, oh, you make me wanna sway slow
+[01:23.85] You push up on me, baby, you got me for days, oh, you do
+[01:51.85] 
+[01:27.84] Baby, won't you let me
+[01:29.78] Keep you up all night? Let the morning come closer
+[01:33.45] You send me so high now, the ceiling can't hold us
+[01:37.19] Listen to my heart, let the rhythm control ya
+[01:40.92] I'll be there when you need my love
+[01:43.58] Just follow the beat of my drum (drum, drum, drum, drum, drum)
+[02:14.58] 
+[01:47.33] It goes...
+[01:52.33] 
+[02:17.58] Whoa-oh, oh, no
+[02:20.06] Thinkin' about you, makin' my body behave so
+[02:23.94] Crazy, oh, you make me wanna sway slow
+[02:27.68] You push up on me, baby, you got me for days, oh, you do
+[02:32.27] Just follow the beat of my drum
+[02:47.77] 
+[02:47.35] It goes...
+[02:52.35] 
+[03:02.16] Just follow the beat of my drum
+```
